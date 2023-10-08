@@ -11,11 +11,6 @@ Daha sonra projeyi yerel makinanızda çalıştırabilirsiniz.
 - .NET MVC
 - SQL Server
 
-# Özellikler
-- Stok ekleme
-- Stok düzenleme
-- Stok silme
-
 <img width="778" alt="Ekran Resmi 2023-10-09 00 21 08" src="https://github.com/zehraarslan/MVC_Stok/assets/48572250/08b6917b-6716-463e-971b-bf9d912e3235">
 
 <img width="750" alt="Ekran Resmi 2023-10-09 00 21 22" src="https://github.com/zehraarslan/MVC_Stok/assets/48572250/e74ae21d-3d5e-47e2-a7c6-a17553388850">
